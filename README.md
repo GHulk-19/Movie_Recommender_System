@@ -1,10 +1,12 @@
 # Movie Recommender System using Cosine Similarity#
 This repository contains code for a content-based movie recommender system implemented using cosine similarity. The system suggests movies to users based on the similarity between the movies they have watched and other movies in the dataset.
 ## Deployment Link
-The deployed Streamlit app can be accessed [here](https://gowtham-movie-recommender-system.streamlit.app/).
+The deployed live Movie_Recommender_System Streamlit app can be accessed.
+Link- [click here](https://gowtham-movie-recommender-system.streamlit.app/).
 
 ## Dataset
 The dataset used for this project is sourced from The Movie Database (TMDB). It consists of information about various movies including their titles, genres, keywords, and overview.
+Download Link- [click](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 ## Requirements
 1. Python 3.x
